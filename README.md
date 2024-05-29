@@ -5,15 +5,15 @@ With advances in computer vision and deep learning, it is now possible to discer
 
 ## Dataset
 
-The FER2013 dataset (facial expression recognition) consists of 48*48 pixel grayscale face images. The images are centered and occupy an equal amount of space. This dataset consist of facial emotions of following categories:
+The FER2013 dataset (facial expression recognition) consists of 48*48 pixel grayscale face images. The images are centered and occupy an equal amount of space. The training set consists of 28,709 examples and the public test set consists of 3,589 examples. This dataset consist of facial emotions of following categories:
 
-0:angry
-1:disgust
-2:feat
-3:happy
-4:sad
-5:surprise
-6:natural
+0: angry
+1: disgust
+2: fear
+3: happy
+4: sad
+5: surprise
+6: natural
 
 The dataset can be found [here](https://www.kaggle.com/datasets/msambare/fer2013).
 
